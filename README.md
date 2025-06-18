@@ -11,7 +11,7 @@ Este repositorio alberga un Jupyter Notebook que realiza todo el flujo de trabaj
 3. **Entrenamiento y evaluación de un modelo en PyTorch**  
 4. **Análisis de resultados y métricas**
 
-El objetivo es ofrecer un punto de partida reproducible para proyectos de forecasting financiero basados en deep learning.
+El objetivo era simplemente ponerme un reto para practicar conocimientos adqueridos recientemente de deep learning.
 
 ## Contenido
 
