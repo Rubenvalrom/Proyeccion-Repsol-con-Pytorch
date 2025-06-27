@@ -13,15 +13,6 @@ Este repositorio alberga un Jupyter Notebook que realiza todo el flujo de trabaj
 
 El objetivo es ofrecer un punto de partida reproducible para proyectos de forecasting financiero basados en deep learning.
 
-## Contenido
-
-- `notebooks/proyeccion_repsol.ipynb`  
-  Notebook principal con el pipeline completo.  
-- `requirements.txt`  
-  Lista de dependencias de Python.  
-- `LICENSE`  
-  Licencia MIT.  
-
 ## Entorno y requisitos
 
 - **Python** 3.8+  
