@@ -1,4 +1,4 @@
-# Proyección Repsol con PyTorch
+# Proyección de la cotización de Repsol con PyTorch
 
 Notebook de prototipado para la predicción de la cotización de las acciones de Repsol usando PyTorch.
 
