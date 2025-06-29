@@ -20,7 +20,9 @@ El objetivo era simplemente ponerme un reto para practicar conocimientos adqueri
 
 ### Instalación
 ```bash
-  git clone https://github.com/Rubenvalrom/Proyeccion-Repsol-con-Pytorch.git
-  cd Proyeccion-Repsol-con-Pytorch
-  pip install -r requirements.txt
+git clone https://github.com/Rubenvalrom/Proyeccion-Repsol-con-Pytorch.git
+cd Proyeccion-Repsol-con-Pytorch
+python -m venv env
+source env/bin/activate  # En Windows: .\env\Scripts\activate
+pip install -r requirements.txt
 ```
