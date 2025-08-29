@@ -162,10 +162,9 @@ Salida esperada:
 
 ## Extensión / Personalización
 
-- Incrementar `seq_len`: Ajustar variable `seq_len` en `main.py` y reentrenar el modelo para coherencia.
 - Añadir indicadores técnicos: Incorporar cálculos (RSI ya disponible) en `procesar_datos` y actualizar `variables.csv` tras un nuevo análisis SHAP.
-- Optimización avanzada: Repetir grid search con métricas adicionales (RMSE, MAPE) y agregar validación cruzada temporal (rolling / expanding window).
-- Despliegue: Empaquetar el pipeline de inferencia como servicio REST (FastAPI) o job programado.
+- Optimización avanzada: Repetir grid search con métricas adicionales (RMSE, Huber Loss) y agregar validación cruzada temporal (rolling / expanding window), aunque eso necesitaría una mayor potencia computacional.
+- Despliegue: Empaquetar el pipeline de inferencia como servicio o tarea programada.
 
 ## Buenas Prácticas Implementadas
 
